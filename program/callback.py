@@ -25,12 +25,12 @@ from program.utils.inline import menu_markup, stream_markup
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 from config import (
-    BOT_USERNAME,
-    GROUP_SUPPORT,
-    OWNER_USERNAME,
-    UPDATES_CHANNEL,
-    SUDO_USERS,
-    OWNER_ID,
+    BOT_USERNAME,asr_77bot
+    GROUP_SUPPORT,xvxzvxx
+    OWNER_USERNAME,aasr_6
+    UPDATES_CHANNEL,xvxzvxx
+    SUDO_USERS,5361809514
+    OWNER_ID,artc65
 )
 
 
